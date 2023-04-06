@@ -13,7 +13,7 @@ C++: basic understanding of C++.
 Projects
 
 - Todoshechka: a to-do application that compares benefits and drawbacks of native and cross-platform frameworks. In progress:
-  - [ ] Swift, in progress: native iOS app that uses the most up-to-date Apple frameworks.
+  - [ ] [Swift](https://github.com/menteValidus/todoshechka), in progress: native iOS app that uses the most up-to-date Apple frameworks.
   - [ ] Kotlin: native Android app that employs the most up-to-date Android frameworks.
   - [ ] KMM: cross-platform app for both iOS and Android, intended to utilize the UI from the Swift project.
   - [ ] React Native: cross-platform app being developed from scratch.
