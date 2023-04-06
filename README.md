@@ -4,13 +4,14 @@ I'm Denis, a mobile developer passionate about building better apps and constant
 
 ## Skills
 
-Swift: extensive experience with UIKit, SwiftUI, Core Data, and other core iOS frameworks.
-Kotlin: experience with Android SDK, Android Studio, and other Android development tools.
-Python: learning and using Flask for backend development.
-C#: experience with WPF for building desktop apps and Unity for game development.
-GDScript: creating games using Godot engine and using GDScript for scripting.
-C++: basic understanding of C++.
-Projects
+- Swift: I have extensive experience developing iOS apps using Swift.
+- Kotlin: I have experience building Android apps using Kotlin.
+- Python: I have been learning Python and using it for backend development. I have mainly worked with Flask.
+- C#: I have experience working with C# and using it for building desktop apps using WPF and Unity for game development.
+- GDScript: I love creating games using Godot engine and using GDScript for scripting.
+- C++: I have basic understanding of C++ and can read and understand the code.
+
+## Projects
 
 - Todoshechka: a to-do application that compares benefits and drawbacks of native and cross-platform frameworks. In progress:
   - [ ] [Swift](https://github.com/menteValidus/todoshechka), in progress: native iOS app that uses the most up-to-date Apple frameworks.
