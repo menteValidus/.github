@@ -33,7 +33,7 @@ I'm always seeking out new projects to enhance my skills and expand my knowledge
 
 If you're interested in working together or just want to chat, feel free to reach out to me via:
 - [LinkedIn](https://www.linkedin.com/in/denis-cherny-orme/)
-- [Email](mailto:mentevali@gmail.com) - mentevali@gmail.com
+- Email - mentevali@gmail.com
 - [Twitter](https://twitter.com/menteVali)
 
 Thanks for checking out my profile!
