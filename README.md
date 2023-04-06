@@ -21,8 +21,8 @@ Projects
 
 ## Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/denis-cherny-orme/)
-Email - mentevali@gmail.com
-[Twitter](https://twitter.com/menteVali)
+- [LinkedIn](https://www.linkedin.com/in/denis-cherny-orme/)
+- Email - mentevali@gmail.com
+- [Twitter](https://twitter.com/menteVali)
 
 Thanks for checking out my profile!
