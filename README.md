@@ -22,7 +22,7 @@ Here are some of the skills I have developed over the years:
 I'm always seeking out new projects to enhance my skills and expand my knowledge. Currently, I'm working on the following:
 
 - Todoshechka: This simple to-do application has two main objectives. The first is to create applications using both native and cross-platform frameworks, and the second is to compare the benefits and drawbacks of these frameworks in small prototypes. My progress on this project is as follows:
-  [ ] [Swift](https://github.com/menteValidus/todoshechka): This project is currently in progress, and it is a native iOS app that uses the most up-to-date Apple frameworks.
+- [ ] [Swift](https://github.com/menteValidus/todoshechka): This project is currently in progress, and it is a native iOS app that uses the most up-to-date Apple frameworks.
   [ ] Kotlin: This native Android app employs the most up-to-date Android frameworks.
   [ ] KMM: This cross-platform app is intended to be used for both iOS and Android. The goal is to convert an existing Android app to KMM and utilize the UI from the Swift project.
   [ ] React Native: This cross-platform app is being developed from scratch. I want to try out this technology and gain first-hand knowledge of its benefits and drawbacks.
